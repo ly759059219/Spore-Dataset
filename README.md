@@ -12,12 +12,8 @@ This repository is intended to host the spore dataset associated with the propos
 ## 📂 Dataset Availability
 
 We appreciate your interest in our dataset.  
-To ensure compliance with journal policies and peer review standards, the full dataset will be made publicly available **after the paper is formally published**.
+To ensure compliance with journal policies and peer review standards, the full spore image dataset will be made publicly available **after the paper is formally published**.
 
-Planned release includes:
-- Raw spore image data
-- Annotated labels (YOLO format)
-- Data partition files (train/val/test splits)
 
 > ✅ **Expected release: After formal publication of the manuscript.**
 
